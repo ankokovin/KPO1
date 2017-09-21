@@ -48,9 +48,12 @@
     <Compile Include="Methods.cs" />
     <Compile Include="Node.cs" />
     <Compile Include="Param.cs" />
+    <Compile Include="ParaType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tree.cs" />
+    <Compile Include="Type.cs" />
+    <Compile Include="Uses.cs" />
     <Compile Include="Vals.cs" />
   </ItemGroup>
   <ItemGroup>

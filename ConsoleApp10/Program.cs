@@ -5,18 +5,6 @@ using System.IO;
 
 namespace ConsoleApp10
 {
-    /// <summary>
-    /// Перечисление типов идентификаторов
-    /// </summary>
-    enum Uses { CLASSES,CONSTS,VARS,METHODS}
-    /// <summary>
-    /// Перечисление типов данных
-    /// </summary>
-    enum Type { int_type,float_type,bool_type,char_type,string_type,class_type}
-    /// <summary>
-    /// Перечисление способов передачи параметра
-    /// </summary>
-    enum ParaType { param_val,param_out,param_ref}
     class Program
     {
         /// <summary>
